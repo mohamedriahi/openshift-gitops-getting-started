@@ -10,7 +10,7 @@ spec:
     name: spring-petclinic
     weight: 100
   port:
-    targetPort: 8443-tcp 
+    targetPort: 8080-tcp 
   tls:
     termination: edge  
   wildcardPolicy: None
