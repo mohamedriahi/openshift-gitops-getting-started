@@ -11,3 +11,5 @@ spec:
     kind: Service
     name: spring-petclinic
     weight: 100
+  wildcardPolicy: None
+  host: router-customer.apps-ocp01-xxnym.shiva.cloud-temple.com
